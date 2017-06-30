@@ -3,15 +3,25 @@ background-color: orange;
 }
 
 .row {
-
+		margin-bottom: 20px;
 }
 
 
 .two, .three, .four, .five {
 	background-color: white;
 	display: inline-block;
+	height: 200px;
+	padding-top: 30px;
 }
 
 div p, div h1, div h3 {
 	text-align: left;
+}
+
+.two .four {
+	text-align: center;
+}
+
+.three .five {
+
 }

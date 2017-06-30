@@ -15,11 +15,13 @@
  	max-width: 1000px;
   	padding-left: 20px;
   	padding-right: 20px;
-  	margin: 0 auto;
+  	margin: auto;
 }
 
 .col-4, .col-12 {
 		float: left;
+		padding-left: 1.04166666%;
+  		padding-right: 1.04166666%;
 }
 
 .col-4, .col-12 {

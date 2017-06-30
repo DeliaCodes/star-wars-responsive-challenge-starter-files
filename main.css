@@ -9,7 +9,6 @@ background-color: orange;
 
 .two, .three, .four, .five {
 	background-color: white;
-	display: inline-block;
 	height: 200px;
 	padding-top: 30px;
 }

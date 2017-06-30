@@ -15,7 +15,7 @@
  	max-width: 1000px;
   	padding-left: 20px;
   	padding-right: 20px;
-  	margin: auto;
+  	margin: 0 auto;
 }
 
 .col-4, .col-12 {
@@ -46,4 +46,8 @@
 
 .col-4 {
 
+}
+
+img {
+	size: 100%;
 }
